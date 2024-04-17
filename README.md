@@ -18,6 +18,6 @@ To run the server type `./server` into a terminal that is in the directory where
 
 By default the server runs on port 2001, so to try it out navigate to
 
-`localhost:2001` in a webbrowser
+`localhost:8080` in a webbrowser
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)

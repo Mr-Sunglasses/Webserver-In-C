@@ -13,7 +13,7 @@
 #include <sys/stat.h>         // more constants
 
 // global constants
-#define PORT 2001             // port to connect on
+#define PORT 8080             // port to connect on
 #define LISTENQ 10            // number of connections
 
 int list_s;                   // listening socket
